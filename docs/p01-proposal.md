@@ -1,5 +1,5 @@
 # Title of your Project: Project Proposal 
-# Code Name
+#### Code Name
 Authors: Pournami Varma (varmap@uw.edu), Maia, Ciara
 
 **TODO**: Edit this file. Your project proposal goes here.
