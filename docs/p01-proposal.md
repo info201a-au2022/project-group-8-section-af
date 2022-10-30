@@ -1,7 +1,9 @@
 # Title of your Project: Project Proposal 
 #### Code Name
 Authors: Pournami Varma (varmap@uw.edu), Maia, Ciara
-Affiliatioon: INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
+
+Affiliation: INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
+
 Date: Autumn 2022
 
 Abstract:
