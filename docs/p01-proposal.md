@@ -1,25 +1,24 @@
 # Sustainability Worldwide: An Analysis of ESG Ratings
 #### Code Name: "ESG"
-Authors: Pournami Varma (varmap@uw.edu), Maia (maiab3@uw.edu), Ciara Maher (ciaram14@uw.edu)
+**Authors:** Pournami Varma (varmap@uw.edu), Maia (maiab3@uw.edu), Ciara Maher (ciaram14@uw.edu)
 
-Affiliation: INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
+**Affiliation:** INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 
-Date: Autumn 2022
+**Date:** Autumn 2022
 
-Abstract: Our main question is ....To address the question, we will ....We are concerned with ..., because ....and plan to..
+**Abstract:** Our main question is ....To address the question, we will ....We are concerned with ..., because ....and plan to..
 
-Keywords: environment, sustainability, social responsibility, corporations, governance
+**Keywords:** environment, sustainability, social responsibility, corporations, governance
 
-Introduction: Our project largely revolves around analyzing the ESG criteria and how closely large companies on a global scale follow set standards. The criteria set in place is typically used for investors to have a better grasp when making decisions regarding potential investment, as the ESG is a large indicator on how socially conscious a company chooses to be. We take a look at how companies either lower or increase their carbon footprint, and how meticulously these institutions take action to be either a steward or destroyer of nature. However, there are other factors at play. We also focus on the relationships between company and consumer, and how thoughtful said company is about operating within their own communities. This plays hand in hand with looking at the company's leadership, and how these internal controls impact those surrounding them. Overall, a true test of how one interacts with the world with mindfulness.
+**Introduction:** Our project largely revolves around analyzing the ESG criteria and how closely large companies on a global scale follow set standards. The criteria set in place is typically used for investors to have a better grasp when making decisions regarding potential investment, as the ESG is a large indicator on how socially conscious a company chooses to be. We take a look at how companies either lower or increase their carbon footprint, and how meticulously these institutions take action to be either a steward or destroyer of nature. However, there are other factors at play. We also focus on the relationships between company and consumer, and how thoughtful said company is about operating within their own communities. This plays hand in hand with looking at the company's leadership, and how these internal controls impact those surrounding them. Overall, a true test of how one interacts with the world with mindfulness.
 
-Problem Domain: Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world.
+**Problem Domain:** Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world.
 
-Research Questions:
-What country, on average, has the highest ESG scores? This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
+**Research Questions:** What country, on average, has the highest ESG scores? This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
 
 How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?
 
-The Dataset: 
+**The Dataset:** 
 1. Kaggle - Sustainability Data
 
 2. Kaggle - ONU Sustainability of Countries
@@ -35,18 +34,18 @@ The Dataset:
 
 3. 
 
-Expected Implications:
+**Expected Implications:**
 
-Limitations: 
+**Limitations:** 
 
-Acknowledgements:  I’d like to thank my teammates!
+**Acknowledgements:** I’d like to thank my teammates!
 
-References:
+**References:**
 Giatti, Vittorio. ‘ONU Sustainability of Countries Development’, 
 	Google LLC, Kaggle, 2022,
     https://www.kaggle.com/datasets/vittoriogiatti/unsdg-united-nations-sustainable-development-group
 
-Appendix A - Questions: Are we able to change big questions/data sets after our first proposal?
+**Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
 
 **TODO**: Edit this file. Your project proposal goes here.
 
