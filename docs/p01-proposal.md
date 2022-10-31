@@ -6,7 +6,7 @@ Affiliation: INFO-201: Technical Foundations of Informatics - The Information Sc
 
 Date: Autumn 2022
 
-Abstract:
+Abstract: Our main question is ....To address the question, we will ....We are concerned with ..., because ....and plan to..
 
 Keywords: environment, sustainability, social responsibility, corporations, governance
 
