@@ -1,28 +1,21 @@
 # Sustainability Worldwide: An Analysis of ESG Ratings
 **Code Name:** "ESG"
 
-**Authors:** Pournami Varma (varmap@uw.edu), Maia B (maiab3@uw.edu), Ciara Maher (ciaram14@uw.edu)
+**Authors:** Pournami Varma (varmap@uw.edu), Maia (maiab3@uw.edu), Ciara Maher (ciaram14@uw.edu)
 
 **Affiliation:** INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 
 **Date:** Autumn 2022
 
-**Abstract:** Our main question is 
-....To address the question, we will explore three datasets -- the first about Environmental, Social and Governance (ESG) criteria and companies' operations across diverse industry sectors and locations, 
-
-the standard of 
-
-We are concerned with ..., because ....and plan to..
+**Abstract:** Our main question is ....To address the question, we will ....We are concerned with ..., because ....and plan to..
 
 **Keywords:** environment, sustainability, social responsibility, corporations, governance
 
 **Introduction:** Our project largely revolves around analyzing the ESG criteria and how closely large companies on a global scale follow set standards. The criteria set in place is typically used for investors to have a better grasp when making decisions regarding potential investment, as the ESG is a large indicator on how socially conscious a company chooses to be. We take a look at how companies either lower or increase their carbon footprint, and how meticulously these institutions take action to be either a steward or destroyer of nature. However, there are other factors at play. We also focus on the relationships between company and consumer, and how thoughtful said company is about operating within their own communities. This plays hand in hand with looking at the company's leadership, and how these internal controls impact those surrounding them. Overall, a true test of how one interacts with the world with mindfulness.
 
-**Problem Domain:** Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world.
+**Problem Domain:** Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world. ESG has to do with how well a corporation manages environmental, social, and goverance risks as a measure of the company's sustainability. In particular, we can use ESG ratings and their breakdowns to understand how companies interact with the environment. This can be done by looking at the environmental section of ESG, whcih according to S&P Global, "considers how that company performs as a steward of the natural or physical environment" (2019). 
 
 **Research Questions:** What country, on average, has the highest ESG scores? This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
-
-Which industry sector, on average, has the highest and lowest ESG ratings?
 
 How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?
 
@@ -40,11 +33,11 @@ How do factors such as poverty and rapid urbanization affect the sustainability 
 
 - Vittorio Giatti collected the data in order to see the correlation between indexes and countries; and how these factors evolutionizing over time creates a long-term impact. Through the user calculating a custom overall sustainability score, it would be helpful to compare these to bigger companies in already developed countries. By doing so would allow for deeper introspection in how other areas of the world have adapted and why their scores may be different. Are their scores better or worse? Why? What differences create these answers? The data collected here was through the manipulation of datasets from the ONU data portal source. Through thorough investigation, it appears that the institutions that are to profit from collecting said data are actually the bigger companies. We say this as it may benefit them to have other areas of the world negatively compare to them, as this boosts their image and what they are doing to be ‘better.’ The data is reliable and secure as the data was collected through the United Nations; as they are held to a high standard on a global scale. I obtained the data through ‘Kaggle’ and have rightfully cited the individuals who contributed to the cause.
 
-3. Kaggle - Global Environmental Indicators Data
+3. Kaggle Global Environmental Indicators Data
 - This dataset is related to our problem domain as it demonstrates how ESG efforts by corporations are related to the regulations and madates imposed by the countries they operate in. This data set lists the countries joined by the United Nations and whether or not they participate in the global treaties and agreements concerning the environment. This will be especially important when answering our research questions that concern where high-scoring companies are based out of. We can use data about which country corporations operate in to see how these countries can set an example for holding corporations accountable and having high standards for sustainability.
 - The file we will look at in particular is called Governance. It consists of 196 rows and 16 columns. These columns include: CountryID, Country and area, Basel Convention, CITES, Conventions on Biological Diversity, Convention on Migratory Species, Kyoto Protocol, Paris Agreement, Ramsar Convention, Rotterdam Convention, Stockholm Convention, UN Convention on the Law of the of the Sea, UN Convention to Combat Desertification, UN Framework Convention on Climate Change, World Heritage Convention. 
 - Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, https://www.kaggle.com/datasets/ruchi798/global-environmental-indicators
-- Ruchi Bhatia collected this data because of the importance of environmental indicators for monitoring the state of our environment. Tracking and making environmental indicators accessible helps push others to take responsibility for the space we all share. They also serve as warning signs for downturns in the state of our environment, and can help decisions be made before undesirable effects occur. 
+- Ruchi Bhatia collected this data because of the importance of environmental indicators for monitoring the state of our environment. Tracking and making environmental indicators accessible helps push others to take responsibility for the space we all share. They also serve as warning signs for downturns in the state of our environment, and can help decisions be made before undesirable effects occur. The data collected in this dataset came from the UN Statistics Division's Global Environment Statistics. While not evident whether Ruchi Bhatia had funding for the formation of this dataset, the UN's divisions are funded by UN member states and voluntary contributions. This data is pulled from a primary source, meaning it is trustworthy and has had little changes made to it. I obtained the data through 'Kaggle' and have cited the contributors.
 
 **Expected Implications:**
 
