@@ -15,11 +15,11 @@
 
 **Problem Domain:** Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world.
 
-**Research Questions:** What country, on average, has the highest ESG scores? This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
+**Research Questions:** _What country, on average, has the highest ESG scores?_ This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
 
-Which industry sector, on average, has the highest and lowest ESG ratings?
+_Which industry sector, on average, has the highest and lowest ESG ratings?_
 
-How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?
+_How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?_
 
 **The Dataset:** 
 1. _Kaggle - Sustainability Data_
