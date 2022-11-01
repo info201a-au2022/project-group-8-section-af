@@ -65,8 +65,7 @@ Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, 
 
 “Understanding the ‘E’ in ESG.” S&amp;P Global, S&amp;P Global, 23 Oct. 2019, https://www.spglobal.com/en/research-insights/articles/understanding-the-e-in-esg. 
 
-
-
+Lutkevich, Ben. “ESG vs. CSR vs. Sustainability: What's the Difference?” WhatIs.com, TechTarget, 29 Sept. 2022, https://www.techtarget.com/whatis/feature/ESG-vs-CSR-vs-sustainability-Whats-the-difference. 
 
 
 **Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
