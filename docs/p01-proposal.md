@@ -33,7 +33,8 @@ How do factors such as poverty and rapid urbanization affect the sustainability 
 
 - Vittorio Giatti collected the data in order to see the correlation between indexes and countries; and how these factors evolutionizing over time creates a long-term impact. Through the user calculating a custom overall sustainability score, it would be helpful to compare these to bigger companies in already developed countries. By doing so would allow for deeper introspection in how other areas of the world have adapted and why their scores may be different. Are their scores better or worse? Why? What differences create these answers? The data collected here was through the manipulation of datasets from the ONU data portal source. Through thorough investigation, it appears that the institutions that are to profit from collecting said data are actually the bigger companies. We say this as it may benefit them to have other areas of the world negatively compare to them, as this boosts their image and what they are doing to be ‘better.’ The data is reliable and secure as the data was collected through the United Nations; as they are held to a high standard on a global scale. I obtained the data through ‘Kaggle’ and have rightfully cited the individuals who contributed to the cause.
 
-3. 
+3. Kaggle Global Environmental Indicators Data
+- This dataset is related to our problem domain as it demonstrates how ESG efforts by corporations are related to the regulations and madates imposed by the countries they operate in. 
 
 **Expected Implications:**
 
