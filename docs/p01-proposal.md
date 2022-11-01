@@ -7,7 +7,11 @@
 
 **Date:** Autumn 2022
 
-**Abstract:** Our main question is ....To address the question, we will ....We are concerned with ..., because ....and plan to..
+**Abstract:** Our main question is centered around the link between Environmental, Social and Governance (ESG) criteria and how company operations function on the basis of poor or better ratings. To address the question, we will asess three datafiles one regarding the sustainability scores of companies across diverse industry sectors and locations worldwide, another about 
+
+and finally one on countries and their abidanace to environmental governance polcies. 
+
+We are concerned with ..., because ..... 
 
 **Keywords:** environment, sustainability, social responsibility, corporations, governance
 
@@ -17,10 +21,14 @@
 
 **Research Questions:** What country, on average, has the highest ESG scores? This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
 
+Which subsector, on average, has the highest versus lowest ESG scores? 
+
+
 How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?
 
 **The Dataset:** 
 1. Kaggle - Sustainability Data
+
 
 2. Kaggle - ONU Sustainability of Countries
 - Our dataset is related to our problem domain as larger companies tend to operate in countries that are currently in the process of developing. This data set directly analyzes the aggregation and manipulation of many ONU UNSDG indexes that assess the sustainability of a country’s development. This set specifically is set to update annually, meaning that we would be able to see the evolution of the progress/detriment over a large quantity of time. This would enable us to answer our question as there are several variables at play that the answer is more gray than black and white; in turn, these scores would allow us to gauge the impact between sustainability and development. This includes but is not limited to; foreign direct investment (support coming in from out of the country); population with primary reliance on clean fuels; total revenues coming from government on total GDP; etc. The varying factors allow us to grasp the bigger picture at hand rather than being stuck within our own perspective.
@@ -33,11 +41,9 @@ How do factors such as poverty and rapid urbanization affect the sustainability 
 
 - Vittorio Giatti collected the data in order to see the correlation between indexes and countries; and how these factors evolutionizing over time creates a long-term impact. Through the user calculating a custom overall sustainability score, it would be helpful to compare these to bigger companies in already developed countries. By doing so would allow for deeper introspection in how other areas of the world have adapted and why their scores may be different. Are their scores better or worse? Why? What differences create these answers? The data collected here was through the manipulation of datasets from the ONU data portal source. Through thorough investigation, it appears that the institutions that are to profit from collecting said data are actually the bigger companies. We say this as it may benefit them to have other areas of the world negatively compare to them, as this boosts their image and what they are doing to be ‘better.’ The data is reliable and secure as the data was collected through the United Nations; as they are held to a high standard on a global scale. I obtained the data through ‘Kaggle’ and have rightfully cited the individuals who contributed to the cause.
 
-3. Kaggle Global Environmental Indicators Data
-- This dataset is related to our problem domain as it demonstrates how ESG efforts by corporations are related to the regulations and madates imposed by the countries they operate in. This data set lists the countries joined by the United Nations and whether or not they participate in the global treaties and agreements concerning the environment. This will be especially important when answering our research questions that concern where high-scoring companies are based out of. We can use data about which country corporations operate in to see how these countries can set an example for holding corporations accountable and having high standards for sustainability.
-- The file we will look at in particular is called Governance. It consists of 196 rows and 16 columns. These columns include: CountryID, Country and area, Basel Convention, CITES, Conventions on Biological Diversity, Convention on Migratory Species, Kyoto Protocol, Paris Agreement, Ramsar Convention, Rotterdam Convention, Stockholm Convention, UN Convention on the Law of the of the Sea, UN Convention to Combat Desertification, UN Framework Convention on Climate Change, World Heritage Convention.
+3. 
 
-**Expected Implications:**
+**Expected Implications:** Briefly describe the expected or possible implications for technologists, designers, and policymakers
 
 **Limitations:** 
 
