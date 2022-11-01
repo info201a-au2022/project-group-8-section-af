@@ -25,7 +25,7 @@ _How do factors such as poverty and rapid urbanization affect the sustainability
 1. _**Kaggle - Sustainability Data**_
 - This given dataset is related to our problem domain since
 
-- The
+- The 
 
 - QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
