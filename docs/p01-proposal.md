@@ -48,8 +48,6 @@ Giatti, Vittorio. ‘ONU Sustainability of Countries Development’,
 
 **Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
 
-**TODO**: Edit this file. Your project proposal goes here.
-
 For what to do, see the [`../instructions/`](../instructions/) directory, specifically:
 
 * [Design Brief](../instructions/project-design-brief.pdf)
