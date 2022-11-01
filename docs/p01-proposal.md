@@ -22,7 +22,7 @@ _Which industry sector, on average, has the highest and lowest ESG ratings?_
 _How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?_
 
 **The Dataset:** 
-1. _Kaggle - Sustainability Data_
+1. _**Kaggle - Sustainability Data**_
 - This given dataset is related to our problem domain since
 
 - The
@@ -31,7 +31,7 @@ _How do factors such as poverty and rapid urbanization affect the sustainability
 
 - 
 
-2. _Kaggle - ONU Sustainability of Countries_
+2. _**Kaggle - ONU Sustainability of Countries**_
 - Our dataset is related to our problem domain as larger companies tend to operate in countries that are currently in the process of developing. This data set directly analyzes the aggregation and manipulation of many ONU UNSDG indexes that assess the sustainability of a country’s development. This set specifically is set to update annually, meaning that we would be able to see the evolution of the progress/detriment over a large quantity of time. This would enable us to answer our question as there are several variables at play that the answer is more gray than black and white; in turn, these scores would allow us to gauge the impact between sustainability and development. This includes but is not limited to; foreign direct investment (support coming in from out of the country); population with primary reliance on clean fuels; total revenues coming from government on total GDP; etc. The varying factors allow us to grasp the bigger picture at hand rather than being stuck within our own perspective.
 
 - The current data set appears within 10 columns: year, year in date format, country name, country ONU region, country ONU level of development, total greenhouse gas emissions (GHG) per year, total revenues coming from government on total GDP, foreign direct investment (FDI) to support sustainable development for developing countries, annual growth rate of real GDP per capita (a positive percentage change in real GDP per capita can be interpreted), proportion of population with primary reliance on clean fuels and technology is calculated as the number of people.
@@ -40,7 +40,7 @@ _How do factors such as poverty and rapid urbanization affect the sustainability
 
 - Vittorio Giatti collected the data in order to see the correlation between indexes and countries; and how these factors evolutionizing over time creates a long-term impact. Through the user calculating a custom overall sustainability score, it would be helpful to compare these to bigger companies in already developed countries. By doing so would allow for deeper introspection in how other areas of the world have adapted and why their scores may be different. Are their scores better or worse? Why? What differences create these answers? The data collected here was through the manipulation of datasets from the ONU data portal source. Through thorough investigation, it appears that the institutions that are to profit from collecting said data are actually the bigger companies. We say this as it may benefit them to have other areas of the world negatively compare to them, as this boosts their image and what they are doing to be ‘better.’ The data is reliable and secure as the data was collected through the United Nations; as they are held to a high standard on a global scale. I obtained the data through ‘Kaggle’ and have rightfully cited the individuals who contributed to the cause.
 
-3. _Kaggle - Global Environmental Indicators Data_
+3. _**Kaggle - Global Environmental Indicators Data**_
 
 - This dataset is related to our problem domain as it demonstrates how ESG efforts by corporations are related to the regulations and madates imposed by the countries they operate in. This data set lists the countries joined by the United Nations and whether or not they participate in the global treaties and agreements concerning the environment. This will be especially important when answering our research questions that concern where high-scoring companies are based out of. We can use data about which country corporations operate in to see how these countries can set an example for holding corporations accountable and having high standards for sustainability.
 
