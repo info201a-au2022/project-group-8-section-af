@@ -67,7 +67,7 @@ Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, 
 
 Lutkevich, Ben. “ESG vs. CSR vs. Sustainability: What's the Difference?” WhatIs.com, TechTarget, 29 Sept. 2022, https://www.techtarget.com/whatis/feature/ESG-vs-CSR-vs-sustainability-Whats-the-difference. 
 
-QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
+QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings.
 
 **Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
 
