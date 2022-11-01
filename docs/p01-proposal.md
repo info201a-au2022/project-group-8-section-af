@@ -43,7 +43,7 @@ How do factors such as poverty and rapid urbanization affect the sustainability 
  
 - Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, https://www.kaggle.com/datasets/ruchi798/global-environmental-indicators
 
-- Ruchi Bhatia collected this data because of the importance of environmental indicators for monitoring the state of our environment. Tracking and making environmental indicators accessible helps push others to take responsibility for the space we all share. They also serve as warning signs for downturns in the state of our environment, and can help decisions be made before undesirable effects occur. 
+- Ruchi Bhatia collected this data because of the importance of environmental indicators for monitoring the state of our environment. Tracking and making environmental indicators accessible helps push others to take responsibility for the space we all share. They also serve as warning signs for downturns in the state of our environment, and can help decisions be made before undesirable effects occur. This data was collected from the United Nations which is a primary source. While it is not known how Ruchi Bhatia funded this data collection, the UN is funded by its member states and voluntary contributions.
 
 **Expected Implications:**
 
