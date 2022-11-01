@@ -29,7 +29,7 @@
 1. _**Kaggle - Sustainability Data**_
 - This given dataset is related to our problem domain since
 
-- The dataset deals with a csv file titled Sustainability Scores. It has 15560 rows of unique values and 10 columns made up of: Company Name, Ticker, Country, Sector, Subsector, Overall ESG Rating, Overall ESG Score, Environmental Score, Social Score, and Governance Score. 
+- The dataset deals with a csv file titled Sustainability Scores in relation to setting a standard for prominent companies across an array of industry sectors. It has 15560 rows of unique values and 10 columns made up of: Company Name, Ticker, Country, Sector, Subsector, Overall ESG Rating, Overall ESG Score, Environmental Score, Social Score, and Governance Score. 
 
 - QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings
 
