@@ -63,6 +63,8 @@ Giatti, Vittorio. ‘ONU Sustainability of Countries Development’,
     
 Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, Binoy Sarkar, Shauhrat S. Chopra, Jay Hyuk Rhee & Yong Sik Ok (2021) Scoring environment pillar in environmental, social, and governance (ESG) assessment, Sustainable Environment, 7:1, DOI: 10.1080/27658511.2021.1960097
 
+“Understanding the ‘E’ in ESG.” S&amp;P Global, S&amp;P Global, 23 Oct. 2019, https://www.spglobal.com/en/research-insights/articles/understanding-the-e-in-esg. 
+
 
 
 
