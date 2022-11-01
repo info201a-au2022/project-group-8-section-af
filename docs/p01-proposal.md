@@ -20,6 +20,7 @@
 _Which industry sector, on average, has the highest and lowest ESG ratings?_
 
 _How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?_
+- This question is important to note as versions of sustainability vary from region to region. Taking into consideration the difference between areas subject to rapid urbanization and poverty are of the utmost importance as these factors ultimately contribute to the ESG total score. This largely connects to out problem domain as we seek to differentiate between companies who are holding their bargain in the areas they operate, and areas who are simply trying to survive.
 
 **The Dataset:** 
 1. _**Kaggle - Sustainability Data**_
