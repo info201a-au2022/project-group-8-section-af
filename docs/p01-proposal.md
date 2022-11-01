@@ -78,6 +78,7 @@ QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/dat
 
 **Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
 
+----------------------------------------------------------------------------------------------
 For what to do, see the [`../instructions/`](../instructions/) directory, specifically:
 
 * [Design Brief](../instructions/project-design-brief.pdf)
