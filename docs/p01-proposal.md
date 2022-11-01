@@ -60,6 +60,12 @@ _How do factors such as poverty and rapid urbanization affect the sustainability
 Giatti, Vittorio. ‘ONU Sustainability of Countries Development’, 
 	Google LLC, Kaggle, 2022,
     https://www.kaggle.com/datasets/vittoriogiatti/unsdg-united-nations-sustainable-development-group
+    
+Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, Binoy Sarkar, Shauhrat S. Chopra, Jay Hyuk Rhee & Yong Sik Ok (2021) Scoring environment pillar in environmental, social, and governance (ESG) assessment, Sustainable Environment, 7:1, DOI: 10.1080/27658511.2021.1960097
+
+
+
+
 
 **Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
 
