@@ -27,7 +27,7 @@
 
 **The Dataset:** 
 1. _**Kaggle - Sustainability Data**_
-- This given dataset is related to our problem domain since
+- This given dataset is related to our problem domain since a combination of environmental criteria, social criteria and governance policies are all factors which play into the functioning of a company’s day-to-day performance. Moreover, the aspect of taking into account these standardized ratings allows us to consider the factors that investing companies or individuals utilize to make socially responsible choices with regard to the given company at hand. The dataset is in close collaboration with the above-mentioned research questions rooted in focus on location and industry sector that ESG ratings affect, while also allowing us to consider the rate at which urban development of sustainability occurs among developed versus developing countries. This dataset serves as a filter to ensure that a diverse and vast set of company names, over 15,000 corporations in count, are used when deriving conclusions to our guiding research questions. 
 
 - The dataset deals with a csv file titled Sustainability Scores in relation to setting a standard for prominent companies across an array of industry sectors. It has 15560 rows of unique values and 10 columns made up of: Company Name, Ticker, Country, Sector, Subsector, Overall ESG Rating, Overall ESG Score, Environmental Score, Social Score, and Governance Score. 
 
