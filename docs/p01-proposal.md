@@ -7,7 +7,8 @@
 
 **Date:** Autumn 2022
 
-**Abstract:** Our main question is ....To address the question, we will ....We are concerned with ..., because ....and plan to..
+**Abstract:** Our main question is 
+....To address the question, we will ....We are concerned with ..., because ....and plan to..
 
 **Keywords:** environment, sustainability, social responsibility, corporations, governance
 
@@ -16,6 +17,8 @@
 **Problem Domain:** Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world.
 
 **Research Questions:** What country, on average, has the highest ESG scores? This question is important because a country with a high ESG score likely has certain regulations and mandates imposed on corporations that other countries could learn from. ESG concerns are global concerns that every corporation must do their part to better. Certain countries and corporations based out of those countries can serve as examples for the rest of the world.
+
+Which industry sector, on average, has the highest and lowest ESG ratings?
 
 How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?
 
