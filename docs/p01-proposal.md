@@ -68,13 +68,13 @@ Giatti, Vittorio. ‘ONU Sustainability of Countries Development’,
 	Google LLC, Kaggle, 2022,
     https://www.kaggle.com/datasets/vittoriogiatti/unsdg-united-nations-sustainable-development-group
     
+Lutkevich, Ben. “ESG vs. CSR vs. Sustainability: What's the Difference?” WhatIs.com, TechTarget, 29 Sept. 2022, https://www.techtarget.com/whatis/feature/ESG-vs-CSR-vs-sustainability-Whats-the-difference. 
+    
 Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, Binoy Sarkar, Shauhrat S. Chopra, Jay Hyuk Rhee & Yong Sik Ok (2021) Scoring environment pillar in environmental, social, and governance (ESG) assessment, Sustainable Environment, 7:1, DOI: 10.1080/27658511.2021.1960097
 
-“Understanding the ‘E’ in ESG.” S&amp;P Global, S&amp;P Global, 23 Oct. 2019, https://www.spglobal.com/en/research-insights/articles/understanding-the-e-in-esg. 
-
-Lutkevich, Ben. “ESG vs. CSR vs. Sustainability: What's the Difference?” WhatIs.com, TechTarget, 29 Sept. 2022, https://www.techtarget.com/whatis/feature/ESG-vs-CSR-vs-sustainability-Whats-the-difference. 
-
 QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings.
+
+“Understanding the ‘E’ in ESG.” S&amp;P Global, S&amp;P Global, 23 Oct. 2019, https://www.spglobal.com/en/research-insights/articles/understanding-the-e-in-esg. 
 
 **Appendix A - Questions:** Are we able to change big questions/data sets after our first proposal?
 
