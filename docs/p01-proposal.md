@@ -62,6 +62,8 @@
 
 **References:**
 
+Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, https://www.kaggle.com/datasets/ruchi798/global-environmental-indicators
+
 Giatti, Vittorio. ‘ONU Sustainability of Countries Development’, 
 	Google LLC, Kaggle, 2022,
     https://www.kaggle.com/datasets/vittoriogiatti/unsdg-united-nations-sustainable-development-group
