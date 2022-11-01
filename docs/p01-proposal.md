@@ -57,6 +57,7 @@ _How do factors such as poverty and rapid urbanization affect the sustainability
 **Acknowledgements:** I’d like to thank my teammates!
 
 **References:**
+
 Giatti, Vittorio. ‘ONU Sustainability of Countries Development’, 
 	Google LLC, Kaggle, 2022,
     https://www.kaggle.com/datasets/vittoriogiatti/unsdg-united-nations-sustainable-development-group
