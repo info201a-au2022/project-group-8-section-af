@@ -6,7 +6,7 @@ library("readxl")
 # if absolute path does not work, this also will
 # unsdg_2002_2021 <- read_excel("../data/unsdg_2002_2021.xlsx")
 
-unsdg_2002_2021 <- read_excel("C:/Users/S/Downloads/Documents/info201/assignments/project-group-8-section-af/data/unsdg_2002_2021.xlsx")
+unsdg_2002_2021 <- read_excel("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/blob/main/data/unsdg_2002_2021.xlsx")
 
 region <- unsdg_2002_2021$region
 unique_location <- unique(region)
