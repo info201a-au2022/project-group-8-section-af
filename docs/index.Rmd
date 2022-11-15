@@ -5,7 +5,14 @@ date: "11/14/2022"
 output: html_document
 ---
 
+library(knitr)
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+library(plotly)
+
 ```{r setup, include=FALSE}
+source("../source/Chart_3.R")
 knitr::opts_chunk$set(echo = TRUE)
 ```
 Code Name: "ESG"
