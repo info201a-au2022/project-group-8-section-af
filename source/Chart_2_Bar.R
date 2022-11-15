@@ -21,6 +21,6 @@ data <- data.frame(
 )
 
 # Barplot
-ggplot(data, aes(Regions, Greenhouse_Gases)) + 
+bargraph <- ggplot(data, aes(Regions, Greenhouse_Gases)) + 
   geom_bar(color="blue", fill=rgb(0.1,0.4,0.5,0.7), stat = "identity", width = 0.5) +
   coord_flip() 
