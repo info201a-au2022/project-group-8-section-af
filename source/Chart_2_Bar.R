@@ -3,7 +3,8 @@
 # import dataset
 library("readxl")
 
-#unsdg_2002_2021 <- read_excel("../data/unsdg_2002_2021.xlsx")
+# if absolute path does not work, this also will
+# unsdg_2002_2021 <- read_excel("../data/unsdg_2002_2021.xlsx")
 
 unsdg_2002_2021 <- read_excel("C:/Users/S/Downloads/Documents/info201/assignments/project-group-8-section-af/data/unsdg_2002_2021.xlsx")
 
