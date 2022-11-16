@@ -1,10 +1,7 @@
 # Chart 2 - Visualization of the Greenhousehouse Gases per Region
 
-# import dataset
-library("readxl")
-
-# read in data file
-unsdg_2002_2021 <- read_excel("../data/unsdg_2002_2021.xlsx")
+# import/read dataset
+unsdg_2002_2021 <- read.csv("unsdg.csv")
 
 region <- unsdg_2002_2021$region
 unique_location <- unique(region)
