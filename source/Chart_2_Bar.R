@@ -19,6 +19,7 @@ data <- data.frame(
 # Barplot
 bargraph <- ggplot(data, aes(Regions, Greenhouse_Gases)) + 
   geom_bar(color="blue", fill=rgb(0.1,0.4,0.5,0.7), stat = "identity", width = 0.5) +
+  ggtitle("Greenhouse Gas Emissions per Region (Globally)") +
   coord_flip() 
 
 # Purpose of the Chart
