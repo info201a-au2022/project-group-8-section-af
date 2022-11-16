@@ -2,7 +2,7 @@ library(ggplot2)
 library(dplyr)
 library(tidyverse)
 
-carbon_emissions <- read.csv("emissions.csv", na.strings=c(""))
+carbon_emissions <- read.csv("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/main/data/emissions.csv", na.strings=c(""))
 
 carbon_emissions = carbon_emissions[-1]
 carbon_emissions <- with(carbon_emissions, 
