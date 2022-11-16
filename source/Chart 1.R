@@ -35,3 +35,4 @@ ggplot(esg_ratings_highest, aes(x= Subsector, y= Environmental_SCORE)) +
 ggplot(esg_ratings_lowest, aes(x= Subsector, y= Environmental_SCORE)) + 
   geom_bar(position= "stack", stat="identity") +
   ggtitle("Lowest Environmental ESG Scores compared to Industry Setcors")
+
