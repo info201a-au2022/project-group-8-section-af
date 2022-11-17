@@ -39,7 +39,7 @@ chart_3
 ```
 
 ## Table for Aggregated Data
-```{r, echo = FALSE}
+```{r agg_table, echo = FALSE}
 agg_table_2
 ```
 ## ABOUT THIS FILE: 
