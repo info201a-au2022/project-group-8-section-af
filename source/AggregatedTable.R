@@ -12,9 +12,7 @@ agg_table <- sustainability %>%
   select(Country, Sector, Overall_ESG_RATING, Overall_ESG_SCORE, Social_SCORE) %>% 
   group_by(Country) %>% 
   slice_head(n=38) %>% 
-  # https://www.infogrid.io/blog/what-is-good-esg-score-your-helpful-guide helped us reference 
-  # the metric that out of  0-10 range a score below 5 is considered  "bad" rating while a score 
-  # above 7 out of 10 is considered excellent and can be classified as a 'high esg score' 
+  # https://www.infogrid.io/blog/what-is-good-esg-score-your-helpful-guide helped us reference the metric, that out of 0 to 10 range, a score below 5 is considered "bad" rating while a score above 7 out of 10 is considered excellent and can be classified as a 'high esg score' 
   filter(Overall_ESG_SCORE >= 7.0) %>% 
   mutate(Overall_ESG_SCORES = round(Overall_ESG_SCORE, digits = 1)) %>% 
   filter(Social_SCORE >= 7.0) %>% 
@@ -22,12 +20,7 @@ agg_table <- sustainability %>%
 
 agg_table_2 <- agg_table[,-4]
 
-# The purpose of this table is to show which sectors in which countries have an 
-# acceptable/higher ESG rate on a global scale. This is important to note as these
-# areas have spearheaded the way sustainability has dynamically shifted the impact
-# between big wig industries and being graceful towards our Earth. This reveals 
-# excellent scores on a basis that has been federally recognized and they have been
-# classified as acceptable on a government standard.
+# The purpose of this table is to show which sectors in which countries have an acceptable/higher ESG rate on a global scale. This is important to note as these
+# areas have spearheaded the way sustainability has dynamically shifted the impact between big wig industries and being graceful towards our Earth. This reveals 
+# excellent scores on a basis that has been federally recognized and they have been classified as acceptable on a government standard.
   
-
-
