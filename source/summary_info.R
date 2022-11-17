@@ -53,7 +53,7 @@ summary_info$largest_change <- emissions_data %>%
   pull(X..change.since.1990)
 
 #Info 6: Country with largest change since 1990
-summary_info$country_largest_change <- carbon_emissions %>% 
+summary_info$country_largest_change <- emissions_data %>% 
   arrange(desc(X..change.since.1990)) %>% 
   slice_head(n=1) %>% 
   pull(Country)
