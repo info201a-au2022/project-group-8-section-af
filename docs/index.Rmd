@@ -26,7 +26,11 @@ We gathered data and calculate values to answer questions about ESG scores by in
 in different regions, and CO2 emissions from countries around the world. We found that the sector (industry) with the highest environmental ESG score
 was `r summary_info$subsector_highest_environ_esg`. This is important information for other industries to have access to when looking for how to improve
 their own ESG scores in terms of the environment. We also found that the highest share of renewable energy of total energy consumption 
-was `r summary_info$highest_renewable_energy_share`%. The country corresponding with this high share of renewable energy is the Democratic Republic of the Congo. In contrast to renewable energy sources, the country with the highest CO2 emissions as of 2018 was `r summary_info$highest_emissions_2018`. It is also important to look at countries with high CO2 emissions in terms of population. Our data showed that the country with the highest emission per capita was `r summary_info$highest_emissions_per_capita`. This means that this country produces more emissions per person than any other country in our data. 
+was `r summary_info$highest_renewable_energy_share`%. The country corresponding with this high share of renewable energy is the Democratic Republic of the Congo.
+In contrast to renewable energy sources, the country with the highest CO2 emissions as of 2018 was `r summary_info$highest_emissions_2018`. 
+It is also important to look at countries with high CO2 emissions in terms of population. Our data showed that the country with the highest 
+emission per capita was `r summary_info$highest_emissions_per_capita`. This means that this country produces more emissions per person 
+than any other country in our data. 
 
 
 
