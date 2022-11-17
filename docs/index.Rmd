@@ -20,6 +20,9 @@ source("../source/AggregatedTable.R")
 knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
 ```
 
+### Dynamic Paragraph
+Our data showed that the country with the highest emission per capita was `r summary_info$highest_emissions_per_capita`.
+
 
 ## ACCESSING THE /source DIRECTORY
 ### Chart 1: 
@@ -30,10 +33,6 @@ knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
 source("../source/data_access.R")
 data_access_test()
 ```
-
-### Dynamic Paragraph
-
-Our data showed that the country with the highest emissions per capita was 
 
 
 ### Chart 2: Greenhouse Gas Emissions per Region (Globally)
