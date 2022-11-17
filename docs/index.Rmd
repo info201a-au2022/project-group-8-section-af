@@ -24,17 +24,17 @@ knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
 Our data showed that the country with the highest emission per capita was `r summary_info$highest_emissions_per_capita`.
 
 ## Chart 1: 
-```{r setup, include=FALSE}
+```{r chart_1}
 chart_1
 ```
 
 ## Chart 2: Greenhouse Gas Emissions per Region (Globally)
-```{r setup, include=FALSE}
+```{r chart_2}
 bargraph
 ```
 
 ## Chart 3: Total C02 Emissions vs. Per Capita by Country
-```{r setup, include=FALSE}
+```{r chart_3}
 chart_3
 ```
 
