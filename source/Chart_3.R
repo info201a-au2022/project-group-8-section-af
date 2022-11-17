@@ -1,6 +1,7 @@
 library(ggplot2)
 library(dplyr)
 library(tidyverse)
+library(hrbrthemes)
 
 carbon_emissions <- read.csv("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/main/data/emissions.csv", na.strings=c(""))
 
