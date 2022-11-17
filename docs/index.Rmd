@@ -11,6 +11,15 @@ library(tidyverse)
 library(dplyr)
 library(plotly)
 
+```{r setup, include=FALSE}
+source("../source/summary_info.R")
+source("../source/Chart_1.R")
+source("../source/Chart_2_Bar.R")
+source("../source/Chart_3.R")
+knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
+```
+
+
 ## ACCESSING THE /source DIRECTORY
 ### Chart 1: 
 ```{r}
