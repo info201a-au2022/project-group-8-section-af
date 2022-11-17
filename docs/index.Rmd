@@ -16,6 +16,7 @@ source("../source/summary_info.R")
 source("../source/Chart_1.R")
 source("../source/Chart_2_Bar.R")
 source("../source/Chart_3.R")
+source("../source/AggregatedTable.R")
 knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
 ```
 
@@ -29,6 +30,11 @@ knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
 source("../source/data_access.R")
 data_access_test()
 ```
+
+### Dynamic Paragraph
+
+Our data showed that the country with the highest emissions per capita was 
+
 
 ### Chart 2: Greenhouse Gas Emissions per Region (Globally)
 ```{r setup, include=FALSE}
