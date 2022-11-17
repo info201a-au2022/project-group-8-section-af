@@ -32,15 +32,12 @@ data_access_test()
 
 ### Chart 2: Greenhouse Gas Emissions per Region (Globally)
 ```{r setup, include=FALSE}
-source("../source/Chart_2_Bar.R")
-chart_2 <- bargraph
-chart_2
+
 ```
 
 ### Chart 3: Total C02 Emissions vs. Per Capita by Country
 ```{r setup, include=FALSE}
-source("../source/Chart_3.R")
-knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 ## ABOUT THIS FILE: 
