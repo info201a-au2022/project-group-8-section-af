@@ -28,5 +28,8 @@ chart_1 <- ggplot(esg_scores) +
     x = "Subsectors"
   ) 
   
-# Descriptive Paragraph HERE
-# 
+# Descriptive Paragraph:
+# The purpose of this chart is to compare Environmental, Social and Governance (ESG) scores across a diverse set of subsector industries.
+# This takes into consideration environmental, social and governance scores independently and how their average which is documented by overall ESG scores,
+# is compared to the varying range of industry types which is helpful in understanding how ESG scores are impacted across multiple companies that are from 
+# various backgrounds ranging from sustainable sectors like renewable energy to cars and automobiles too.
