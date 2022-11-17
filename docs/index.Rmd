@@ -38,10 +38,9 @@ bargraph
 chart_3
 ```
 
-## Table for Aggregated Table
+## Table for Aggregated Data
 ```{r, echo = FALSE}
-source("https://raw.githubusercontent.com/info201a-au2022/project-group-7-section-af/main/source/AggregateTable.R")
-knitr::kable(AggregateDataTable, "simple", col.names =c("Cause","Temperature","Precipitation","Fire Maginitude"))
+agg_table_2
 ```
 ## ABOUT THIS FILE: 
 
