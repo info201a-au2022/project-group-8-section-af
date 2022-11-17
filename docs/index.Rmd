@@ -37,7 +37,7 @@ bargraph
 
 ### Chart 3: Total C02 Emissions vs. Per Capita by Country
 ```{r setup, include=FALSE}
-
+chart_3
 ```
 
 ## ABOUT THIS FILE: 
