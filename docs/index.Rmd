@@ -23,25 +23,29 @@ knitr::opts_chunk$set(echo=TRUE, warning = FALSE, message = FALSE)
 ## Dynamic Paragraph
 Our data showed that the country with the highest emission per capita was `r summary_info$highest_emissions_per_capita`.
 
+
+
+### Aggregated Table
+```{r agg_table, echo=FALSE}
+knitr::kable(agg_table_2, "simple", col.names = c("Country", "Sector", "Overall ESG Rating", "Social Score", "Overall ESG Scores"))
+```
+
 ## Chart 1: 
-```{r chart_1}
+```{r chart_1, echo = FALSE}
 chart_1
 ```
 
 ## Chart 2: Greenhouse Gas Emissions per Region (Globally)
-```{r chart_2}
+```{r chart_2, echo = FALSE}
 bargraph
 ```
 
 ## Chart 3: Total C02 Emissions vs. Per Capita by Country
-```{r chart_3}
+```{r chart_3, echo = FALSE}
 chart_3
 ```
 
-## Table for Aggregated Data
-```{r agg_table, echo = FALSE}
-agg_table_2
-```
+
 ## ABOUT THIS FILE: 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
