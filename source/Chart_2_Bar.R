@@ -25,6 +25,7 @@ bargraph <- ggplot(data, aes(Regions, Greenhouse_Gases)) +
 # Purpose of the Chart
 # The purpose of this chart is to determine the correlation between greenhouse gas emissions per regions. This is 
 # especially important to take a look at as it is evident that more devloped areas have less emissions as a whole. 
-# As seen in the chart, more modern regions such as Europe and North America have vastly lesser amounts of emissions;
-# sitting at roughly 45,000MTCOe, whereas Sub Saharan Africa is currently developing and now produces
-# over 62,000MTCOe per year.
+# Each of the darker blue lines is indicative of the country of that region, the entirety of the bar being a cumulation
+# of all of the data points. As seen in the chart, more modern regions such as Europe and North America have vastly 
+# lesser amounts of emissions; sitting at roughly 45,000MTCOe, whereas Sub Saharan Africa is currently developing and 
+# now produces over 62,000MTCOe per year.
