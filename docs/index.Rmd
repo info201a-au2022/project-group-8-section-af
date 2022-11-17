@@ -37,7 +37,7 @@ data_access_test()
 
 ### Chart 2: Greenhouse Gas Emissions per Region (Globally)
 ```{r setup, include=FALSE}
-
+bargraph
 ```
 
 ### Chart 3: Total C02 Emissions vs. Per Capita by Country
