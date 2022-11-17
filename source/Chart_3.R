@@ -30,4 +30,7 @@ chart_3 <-top_10_emissions %>%
 
 #The purpose of this chart is to compare the total CO2 emissions of a country in the latest year recorded to their CO2 emissions per capita.
 #This demonstrates how much a country emits CO2 compared to the size of the population, which is helpful in analyzing how well a country manages
-#emissions given its size. 
+#emissions given its size. It is important to recognize the difference between total emissions and emissions per person(capita). For example, 
+#Chile has relatively low total emissions, but relatively high emissions per capita. This shows how Chile produces relatively high emissions when one
+#considers the population size of the country. In contrast, Afghanistan has relatively high emissions, but relatively low emissions per capita. This shows that
+#given the size of the population of Afghanistan, CO2 emissions are low in comparison to countries with similar population sizes and higher emissions per capita.
