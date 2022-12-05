@@ -2,8 +2,6 @@ library(shiny)
 library(ggplot2)
 library(dplyr)
 
-data <- read.csv("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/main/data/sustainability_scores.csv")
-
 page_one <- tabPanel(
   "Introduction",
   mainPanel(
