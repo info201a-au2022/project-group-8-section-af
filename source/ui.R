@@ -61,7 +61,8 @@ page_four <- tabPanel(
      # Show a plot of the generated distribution
      mainPanel(
          ui <- fluidPage(
-           plotOutput("countryPlot")
+           plotOutput("countryPlot"),
+           textOutput("text4")
          )
      )
 ),
