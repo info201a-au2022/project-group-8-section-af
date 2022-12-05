@@ -112,7 +112,7 @@ output$selectCountry <- renderUI({
       scatterPlot()
     })  
     
-    output$text <- renderText({
+    output$text4 <- renderText({
       paste("This plot shows how a country's total CO2 emissions (in the latest year recorded) compare to their CO2 emissions per capita (in latest year). It is important
             to look at this measure per capita because it represents emissions per person, rather than as a total. Based on my scatter plot (that is still a work in
             progress) it starts with China, which has the highest recorded total emissions at 10,274,851, and a per capita amount of 7.34. If we look at the US, it has
