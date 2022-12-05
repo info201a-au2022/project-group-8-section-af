@@ -119,6 +119,6 @@ output$selectCountry <- renderUI({
             total emissions of 5,424,881 but emissions per capita of 16.58. This per capita amount is twice that of China's yet they produce a little over half of China's
             total emissions. If we look at India, which is the second most populous country in the world, it places 4th for total emissions. Yet, has emissions per 
             capita of 1.28. Based on these trends, we can see that total emissions is not the best representative of emissions productions. Countries with lower populations
-            (like the US) produce higher emissions per person relative to a country like China or India that are two of the most populated countries in the world.)
+            (like the US) produce higher emissions per person relative to a country like China or India that are two of the most populated countries in the world.")
     })
 }
