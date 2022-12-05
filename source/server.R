@@ -4,6 +4,15 @@ library(dplyr)
 
 data <- read.csv("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/main/data/sustainability_scores.csv")
 bar <-  read.csv("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/main/data/unsdg.csv")
+carbon_emissions <- read.csv("https://raw.githubusercontent.com/info201a-au2022/project-group-8-section-af/main/data/emissions.csv", 
+                             na.strings=c(""))
+carbon_emissions = carbon_emissions[-1]
+carbon_emissions <- with(carbon_emissions, 
+                         carbon_emissions[!(Country == "" | is.na(Country)), ])
+top_emissions <- carbon_emissions %>% 
+  select(Country, CO2.emissions..latest.year,
+         CO2.emissions..per.capita...latest.year) %>% 
+  arrange(desc(as.numeric(CO2.emissions..latest.year)))
 
 server <- function(input, output) {
   
@@ -81,6 +90,26 @@ server <- function(input, output) {
 
   
 # Page 4
-  
+output$selectCountry <- renderUI({
+      selectInput("countries", "Choose a country:", 
+                  choices = unique(top_emissions$Country)
+                  )
+    })
+    
+    scatterPlot <- reactive({
+     plotData <- top_emissions %>% 
+        filter(Country %in% input$countries)
+      
+      ggplot(plotData, aes(x = CO2.emissions..latest.year,
+                           y = CO2.emissions..per.capita...latest.year)) +
+        geom_point(aes(color = Country)) +
+        labs(x = "CO2 Emissions in Latest Year",
+             y = "CO2 Emissions per Capita in Latest Year",
+             title = "CO2 Emissions Total vs. Per Capita")
+    })
+    
+    output$countryPlot <- renderPlot({
+      scatterPlot()
+    })  
 
 }
