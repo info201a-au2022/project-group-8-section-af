@@ -40,7 +40,18 @@ page_three <- tabPanel(
 ),
 
 page_four <- tabPanel(
+  "Emissions Data based on Country",
+    sidebarLayout(
+      sidebarPanel(
+         uiOutput("selectCountry")
+     ),
 
+     # Show a plot of the generated distribution
+     mainPanel(
+         ui <- fluidPage(
+           plotOutput("countryPlot")
+         )
+     )
 ),
 
 page_five <- tabPanel(
