@@ -12,7 +12,7 @@ page_one <- tabPanel(
       h5("Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world. We can use ESG ratings as well as their individual breakdowns to understand how well a company interacts with the environment as a measure of its own sustainability. According to researchers from Korea University, "with the rapid pace of globalization, every single individualis chasing the technology while ignoring environmental changes accelerated as a consequence" (2021). For our project, we will want to pay special attention to the "E" of ESG, which pertains to environmental risks. According to S&P Global, "the environmental portion of ESG considers how that company performs as a steward of natural or physical environment" (2019). The risks/factors that these corporations are attempting to manage include greenhouse gas emissions, water use, waste and pollution, and land use and biodiversity (2019). Companies have begun to realize that their own economic success could be severely damaged if they do not do their part to protect the environment. They also are being held to higher and higher standards by governments and are incorporating social responsibility initiatives to appeal to consumers. Ultimately, ESG is a “quantifiable measure of sustainability” (techtarget.com, 2022) that can serve as a way to hold corporations accountable for the impacts they have on our natural world, as well as protect people who could suffer from consumerism and capitalism left unchecked."),
     )
   )
-)
+),
 
 page_two <- tabPanel(
   "Countries vs. ESG Scores based on Industry Sectors Globally",
