@@ -35,8 +35,22 @@ page_two <- tabPanel(
 ),
 
 page_three <- tabPanel(
+  "Renewable Energy Shares"
   
-  
+    # Sidebar with a slider input for number of bins
+    sidebarLayout(
+        sidebarPanel(
+          uiOutput("select_region"),
+          
+        ),
+
+        # Show a plot of the generated distribution
+         mainPanel(
+         ui <- fluidPage(
+           plotOutput("co2_plot"),
+           textOutput("text")
+         )
+     )
 ),
 
 page_four <- tabPanel(
