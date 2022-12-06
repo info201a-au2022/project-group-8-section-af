@@ -15,8 +15,7 @@ page_one <- tabPanel(
       h3("sustain"),
       tags$h3("sustain"),
       "picture",
-       tags$a(href="https://www.activesustainability.com/sustainable
-       -development/what-is-sustainability/?_adin=02021864894")
+       tags$a(href="https://saaccionasostenibilidad.blob.core.windows.net/media/816156/desarrollo-sostenible.jpg")
         )
   )
 ),
