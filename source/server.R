@@ -76,16 +76,8 @@ server <- function(input, output) {
   
   # Description of plot
   output$text <- renderText({
-    paste("This plot shows the renewable energy share in total final consumption
-          is the percentage of the final consumption of energy. In short, it shows
-          the user out of the 100% total energy used, how much of the energy is 
-          from a renewable source? How has it changed over the last few decades?
-          After clicking on every country, a very obvious pattern to be found is
-          that more developed countries use non - renweable energy sources wheras
-          smaller countries tend to use more renewable sources. It is also interesting
-          to notice that countries within the Sourth/Eastern Asia region have become more focused on 
-          renewablity within the last couple decades, in comparison to the North Africa
-          and Western Asia region where they seemed to have declined in that aspect.")
+    paste("The purpose of this chart is to determine the correlation between renewability of total energy
+           consumption over large time span.")
   })
     })
 
