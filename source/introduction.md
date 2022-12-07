@@ -9,10 +9,15 @@ Our research topic falls within the domain of environmental, social, and corpora
 ### **Research Questions:**
 
 **What country has the highest carbon emissions?**
+
 This question is important because it is important to know what countries are responsible for uses practices that are harmful to the environment, and how they compare to countries with less carbon emissions. By looking at both emissions and emissions per capita, we can tell how a country produces CO2 emissions while considering the size of that country. We want to see if countries produce more emissions given the size of the country compared to others, and what can be done to limit CO2 emissions in these countries.
+
 **Which industry sector, on average, has the highest and lowest ESG ratings?**
+
 This question is vital in relation to our problem domain because the first dataset file in relation to sustainability scores accounts for data involving varying establishments’ company names while also categorizing them by industry sectors and subsectors under the overarching realm of their ESG scores. These ratings are of utmost importance given that the lowest ranked industry can provide an explanation for change that needs to be brought about in our society today while the highest ranked industries’ efforts can be used as motivation to compliment similar fields for improved outcomes of sustainable development despite varying backgrounds of industrial sectors. Reasonings as to why some sectors have better ESG ratings than others can also be derived from detailed analysis of the given data.
+
 **How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?**
+
 This question is important to note as versions of sustainability vary from region to region. Taking into consideration the difference between areas subject to rapid urbanization and poverty are of the utmost importance as these factors ultimately contribute to the ESG total score. This largely connects to out problem domain as we seek to differentiate between companies who are holding their bargain in the areas they operate, and areas who are simply trying to survive.
 
 ### **The Dataset:**
