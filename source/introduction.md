@@ -1,12 +1,12 @@
-**Introduction:** 
+### **Introduction:** 
 
 Our project largely revolves around analyzing the ESG criteria and how closely large companies on a global scale follow set standards. The criteria set in place is typically used for investors to have a better grasp when making decisions regarding potential investment, as the ESG is a large indicator on how socially conscious a company chooses to be. We take a look at how companies either lower or increase their carbon footprint, and how meticulously these institutions take action to be either a steward or destroyer of nature. However, there are other factors at play. We also focus on the relationships between company and consumer, and how thoughtful said company is about operating within their own communities. This plays hand in hand with looking at the company's leadership, and how these internal controls impact those surrounding them. Overall, a true test of how one interacts with the world with mindfulness.
 
-**Problem Domain:** 
+### **Problem Domain:** 
 
 Our research topic falls within the domain of environmental, social, and corporate concerns. These concerns can be embodied into a sustainability rating system known as ESG in the business world. We can use ESG ratings as well as their individual breakdowns to understand how well a company interacts with the environment as a measure of its own sustainability. According to researchers from Korea University, "with the rapid pace of globalization, every single individualis chasing the technology while ignoring environmental changes accelerated as a consequence" (2021). For our project, we will want to pay special attention to the "E" of ESG, which pertains to environmental risks. According to S&P Global, "the environmental portion of ESG considers how that company performs as a steward of natural or physical environment" (2019). The risks/factors that these corporations are attempting to manage include greenhouse gas emissions, water use, waste and pollution, and land use and biodiversity (2019). Companies have begun to realize that their own economic success could be severely damaged if they do not do their part to protect the environment. They also are being held to higher and higher standards by governments and are incorporating social responsibility initiatives to appeal to consumers. Ultimately, ESG is a “quantifiable measure of sustainability” (techtarget.com, 2022) that can serve as a way to hold corporations accountable for the impacts they have on our natural world, as well as protect people who could suffer from consumerism and capitalism left unchecked.
 
-###**Research Questions:**
+### **Research Questions:**
 
 **What country has the highest carbon emissions?**
 This question is important because it is important to know what countries are responsible for uses practices that are harmful to the environment, and how they compare to countries with less carbon emissions. By looking at both emissions and emissions per capita, we can tell how a country produces CO2 emissions while considering the size of that country. We want to see if countries produce more emissions given the size of the country compared to others, and what can be done to limit CO2 emissions in these countries.
@@ -15,7 +15,7 @@ This question is vital in relation to our problem domain because the first datas
 **How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?**
 This question is important to note as versions of sustainability vary from region to region. Taking into consideration the difference between areas subject to rapid urbanization and poverty are of the utmost importance as these factors ultimately contribute to the ESG total score. This largely connects to out problem domain as we seek to differentiate between companies who are holding their bargain in the areas they operate, and areas who are simply trying to survive.
 
-###**The Dataset:**
+### **The Dataset:**
 
 **Kaggle - Sustainability Data**
 This given dataset is related to our problem domain since a combination of environmental criteria, social criteria and governance policies are all factors which play into the functioning of a company’s day-to-day performance. Moreover, the aspect of taking into account these standardized ratings allows us to consider the factors that investing companies or individuals utilize to make socially responsible choices with regard to the given company at hand. The dataset is in close collaboration with the above-mentioned research questions rooted in focus on location and industry sector that ESG ratings affect, while also allowing us to consider the rate at which urban development of sustainability occurs among developed versus developing countries. This dataset serves as a filter to ensure that a diverse and vast set of company names, over 15,000 corporations in count, are used when deriving conclusions to our guiding research questions.
@@ -44,19 +44,19 @@ Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, htt
 
 Ruchi Bhatia collected this data because of the importance of environmental indicators for monitoring the state of our environment. Tracking and making environmental indicators accessible helps push others to take responsibility for the space we all share. They also serve as warning signs for downturns in the state of our environment, and can help decisions be made before undesirable effects occur. This data was collected from the United Nations which is a primary source. While it is not known how Ruchi Bhatia funded this data collection, the UN is funded by its member states and voluntary contributions.
 
-###**Expected Implications:**
+### **Expected Implications:**
 
 Two expected implications from our investigation are that rapid urbanization has in fact affected the sustainability facet of developing countries and additionally that developed countries are more likely to have higher ESG scores. These implications can be predicted based on our answers to the research questions, these are both vital for policymakers and technologists given that in areas where more poverty exists sustainability is surely of secondary importance than the basic needs of sustenance being accessible to those impacted first. The second implication also connects in this regard as it is only relational that developed countries are likely to prioritize and implement sustainable development measures – however being able to confirm the above implications through our research and data would be ideal given that collectively we would be able to better understand how and why certain environments are leveraged by other stakeholders to vouch for their stance however the recognition of such disparities is the start to uncovering more about how effective action can begin to be taken to resolve such issues.
 
-###**Limitations:**
+### **Limitations:**
 
 Limitations of this research project include trying to address large and complex questions with limited data. While we can come up with hypotheses and potential solutions, the questions we hope to answer would require much more data and many more factors to consider. Additionally, some data is missing depending on the variables, which is something to consider when coming to a conclusion about our research questions. Some of our datasets have not been updated within the last year, meaning some information could be missing or out of date. For example, the dataset about governance lists that the U.S. formally became apart of the Paris Agreement in 2016. However, in 2020 the U.S. left the Paris Agreement in 2020, but this is not noted.
 
-###**Acknowledgements:** 
+### **Acknowledgements:** 
 
 I’d like to thank my teammates!
 
-###**References:**
+### **References:**
 
 Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, https://www.kaggle.com/datasets/ruchi798/global-environmental-indicators
 
@@ -69,8 +69,4 @@ Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, 
 QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings.
 
 “Understanding the ‘E’ in ESG.” S&P Global, S&P Global, 23 Oct. 2019, https://www.spglobal.com/en/research-insights/articles/understanding-the-e-in-esg.
-
-**Appendix A**
-- Questions: Are we able to change big questions/data sets after our first proposal?
-
 
