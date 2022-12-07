@@ -61,6 +61,7 @@ server <- function(input, output) {
 
     ggplot(plotting_data, aes(x = dt_date, y = region)) +
       geom_col(aes(fill = renewable_energy_share_on_the_total_energy_consumption)) +
+      theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
       labs(x = "Years",
            y = "Country Region",
            fill = "Renewable Energy Share
