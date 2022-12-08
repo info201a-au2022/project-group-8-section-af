@@ -14,6 +14,33 @@ top_emissions <- carbon_emissions %>%
          CO2.emissions..per.capita...latest.year) %>% 
   arrange(desc(as.numeric(CO2.emissions..latest.year)))
 
+top_emissions$CO2.emissions..latest.year <- as.numeric(as.character(top_emissions$CO2.emissions..latest.year))
+top_emissions$CO2.emissions..per.capita...latest.year <- as.numeric(as.character(top_emissions$CO2.emissions..per.capita...latest.year))
+
+typeof(top_emissions$CO2.emissions..latest.year)
+typeof(top_emissions$CO2.emissions..per.capita...latest.year)
+
+build_scatter <- function(top_emissions,  search = "", xvar = "CO2.emissions..latest.year",
+                          yvar = "CO2.emissions..per.capita...latest.year") {
+  xmax <- max(top_emissions[,xvar]) * 1.5
+  ymax <- max(top_emissions[,yvar]) * 1.5
+  
+  top_emissions <- top_emissions %>% 
+    filter(grepl(search, Country))
+  
+  scatter <- plot_ly(x = top_emissions[, xvar],
+                     y = top_emissions[, yvar], 
+                     mode="markers", 
+                     marker = list(
+                       opacity = .4, 
+                       size = 10
+                     )) %>% 
+    layout(xaxis = list(range = c(0, xmax), title = xvar), 
+           yaxis = list(range = c(0, ymax), title = yvar)
+    )
+  return(scatter)
+}
+
 server <- function(input, output) {
   
 #Page 2
