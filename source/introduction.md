@@ -49,29 +49,3 @@ Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, htt
 
 Ruchi Bhatia collected this data because of the importance of environmental indicators for monitoring the state of our environment. Tracking and making environmental indicators accessible helps push others to take responsibility for the space we all share. They also serve as warning signs for downturns in the state of our environment, and can help decisions be made before undesirable effects occur. This data was collected from the United Nations which is a primary source. While it is not known how Ruchi Bhatia funded this data collection, the UN is funded by its member states and voluntary contributions.
 
-### **Expected Implications:**
-
-Two expected implications from our investigation are that rapid urbanization has in fact affected the sustainability facet of developing countries and additionally that developed countries are more likely to have higher ESG scores. These implications can be predicted based on our answers to the research questions, these are both vital for policymakers and technologists given that in areas where more poverty exists sustainability is surely of secondary importance than the basic needs of sustenance being accessible to those impacted first. The second implication also connects in this regard as it is only relational that developed countries are likely to prioritize and implement sustainable development measures – however being able to confirm the above implications through our research and data would be ideal given that collectively we would be able to better understand how and why certain environments are leveraged by other stakeholders to vouch for their stance however the recognition of such disparities is the start to uncovering more about how effective action can begin to be taken to resolve such issues.
-
-### **Limitations:**
-
-Limitations of this research project include trying to address large and complex questions with limited data. While we can come up with hypotheses and potential solutions, the questions we hope to answer would require much more data and many more factors to consider. Additionally, some data is missing depending on the variables, which is something to consider when coming to a conclusion about our research questions. Some of our datasets have not been updated within the last year, meaning some information could be missing or out of date. For example, the dataset about governance lists that the U.S. formally became apart of the Paris Agreement in 2016. However, in 2020 the U.S. left the Paris Agreement in 2020, but this is not noted.
-
-### **Acknowledgements:** 
-
-I’d like to thank my teammates!
-
-### **References:**
-
-Bhatia, Ruchi. 'Global Environmental Indicatiors', Google LLC, Kaggle, 2021, https://www.kaggle.com/datasets/ruchi798/global-environmental-indicators
-
-Giatti, Vittorio. ‘ONU Sustainability of Countries Development’, Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/vittoriogiatti/unsdg-united-nations-sustainable-development-group
-
-Lutkevich, Ben. “ESG vs. CSR vs. Sustainability: What's the Difference?” WhatIs.com, TechTarget, 29 Sept. 2022, https://www.techtarget.com/whatis/feature/ESG-vs-CSR-vs-sustainability-Whats-the-difference.
-
-Sachini Supunsala Senadheera, Piumi Amasha Withana, Pavani Dulanja Dissanayake, Binoy Sarkar, Shauhrat S. Chopra, Jay Hyuk Rhee & Yong Sik Ok (2021) Scoring environment pillar in environmental, social, and governance (ESG) assessment, Sustainable Environment, 7:1, DOI: 10.1080/27658511.2021.1960097
-
-QPM. 'Sustainability Data', Google LLC, Kaggle, 2022, https://www.kaggle.com/datasets/debashish311601/esg-scores-and-ratings.
-
-“Understanding the ‘E’ in ESG.” S&P Global, S&P Global, 23 Oct. 2019, https://www.spglobal.com/en/research-insights/articles/understanding-the-e-in-esg.
-
