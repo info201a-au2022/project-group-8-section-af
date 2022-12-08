@@ -61,13 +61,15 @@ page_four <- tabPanel(
   "Emissions Data based on Country",
     sidebarLayout(
       sidebarPanel(
-         uiOutput("selectCountry")
+         #uiOutput("selectCountry")
+        textInput("search", label = "Find a country", value = "")
      ),
 
      # Show a plot of the generated distribution
      mainPanel(
          ui <- fluidPage(
-           plotOutput("countryPlot"),
+           #plotOutput("countryPlot"),
+           plotlyOutput("scatter"),
            textOutput("text4")
          )
      )
