@@ -17,9 +17,9 @@ This question is important because it is important to know what countries are re
 
 This question is vital in relation to our problem domain because the first dataset file in relation to sustainability scores accounts for data involving varying establishments’ company names while also categorizing them by industry sectors and subsectors under the overarching realm of their ESG scores. These ratings are of utmost importance given that the lowest ranked industry can provide an explanation for change that needs to be brought about in our society today while the highest ranked industries’ efforts can be used as motivation to compliment similar fields for improved outcomes of sustainable development despite varying backgrounds of industrial sectors. Reasonings as to why some sectors have better ESG ratings than others can also be derived from detailed analysis of the given data.
 
-**How do factors such as poverty and rapid urbanization affect the sustainability of developing countries? Why can’t we compare them to developed countries?**
+**For regions in developing areas, how does this affect their renewable energy shares in comparison to other countries in the world?**
 
-This question is important to note as versions of sustainability vary from region to region. Taking into consideration the difference between areas subject to rapid urbanization and poverty are of the utmost importance as these factors ultimately contribute to the ESG total score. This largely connects to out problem domain as we seek to differentiate between companies who are holding their bargain in the areas they operate, and areas who are simply trying to survive.
+This question is important to note as versions of sustainability vary from region to region. Taking into consideration the difference between areas subject to factors of developing are of the utmost importance as these factors ultimately contribute to a country’s renewable energy share. This largely connects to our problem domain as we seek to differentiate between countries who are able to become sustainable through the resources that they have (being more developed) and areas who are simply trying to survive. Every area is simply different, and through investigation, we can further look into what trends can be seen throughout the last couple decades.
 
 ### **The Dataset:**
 
