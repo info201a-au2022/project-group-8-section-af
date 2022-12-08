@@ -1,11 +1,14 @@
-Authors:
 
-Pournami Varma(varmap@uw.edu)
-Ciara Maher (ciaram14@uw.edu)
-Maia Bonifield (maiab3@uw.edu)
+**Authors**:
 
-Affiliation: INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
+Pournami Varma(_varmap@uw.edu_)
 
-Date: Autumn 2022
+Ciara Maher (_ciaram14@uw.edu_)
 
-Code Name: AF-08
+Maia Bonifield (_maiab3@uw.edu_)
+
+**Affiliation**: INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
+
+**Date:** Autumn 2022
+
+**Code Name:** ESG
