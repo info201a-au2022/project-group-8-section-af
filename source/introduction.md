@@ -8,9 +8,10 @@ Our research topic falls within the domain of environmental, social, and corpora
 
 ### **Research Questions:**
 
-**What country has the highest carbon emissions?**
+**What country has the highest emissions total and per capita and how can these measures be used to measure a country’s sustainability practices?**
 
-This question is important because it is important to know what countries are responsible for uses practices that are harmful to the environment, and how they compare to countries with less carbon emissions. By looking at both emissions and emissions per capita, we can tell how a country produces CO2 emissions while considering the size of that country. We want to see if countries produce more emissions given the size of the country compared to others, and what can be done to limit CO2 emissions in these countries.
+This question is important because it is important to know what countries are responsible for using practices that are harmful to the environment, and how they compare to countries with less carbon emissions. By looking at both emissions and emissions per capita, we can tell how a country produces CO2 emissions while considering the size of that country. We want to see if countries produce more emissions given the size of the country compared to others, and what can be done to limit CO2 emissions in these countries.
+
 
 **Which industry sector, on average, has the highest and lowest ESG ratings?**
 
