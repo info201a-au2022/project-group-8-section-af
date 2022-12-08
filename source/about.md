@@ -1,7 +1,7 @@
 
 **Authors**:
 
-Pournami Varma(_varmap@uw.edu_)
+Pournami Varma (_varmap@uw.edu_)
 
 Ciara Maher (_ciaram14@uw.edu_)
 
