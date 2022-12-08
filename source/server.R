@@ -43,6 +43,11 @@ build_scatter <- function(top_emissions,  search = "", xvar = "CO2.emissions..la
 
 server <- function(input, output) {
   
+  output$image <- renderImage({
+    list(src = "./www/sustainability.jpg", height = 430, width = 430)
+  }, deleteFile = F)
+  
+  
 #Page 2
   output$selectScore <- renderUI({
       selectInput("sectors", "Choose an Industry Sector:", choices = unique(data$Sector))
@@ -54,6 +59,7 @@ server <- function(input, output) {
       
       ggplot(plotData, aes(x = Country, y = Overall_ESG_SCORE)) +
         geom_col(aes(fill = Subsector)) +
+        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
         labs(
           x = "Country Name",
           y = "Overall ESG Scores", 
@@ -67,10 +73,15 @@ server <- function(input, output) {
     })
     
     output$sampleText <- renderText({
-      paste("Hello! Welcome to my sample Shiny web app. This visualization shows a stacked bar chart of ESG scores across varying subsector industries.")
+      paste("This stacked bar chart shows the country-based distribution of overall ESG scores
+            as grouped by seventy different industry sectors. Users can choose an industry sector 
+            from the dropdown menu on the left to see the subsector breakdown of how average ESG scores 
+            vary based on country.
+            
+            Some industry sectors are not further grouped by subsector. We still chose to include these 
+            since we wanted to analyze every country's sector based ESG score relation, including those
+            that may be ungrouped merely because their subsector fields are more niche.")
     })
-})
-
   
 # Page 3
    # Creating an output widget for the user to choose
@@ -83,7 +94,7 @@ server <- function(input, output) {
  # Plotting the chart based on renewable energy share throughout 2 decades
   barPlot <- reactive({
 
-   plotting_data <- bar %>% 
+  plotting_data <- bar %>% 
   filter(country %in% input$Country)
 
     ggplot(plotting_data, aes(x = dt_date, y = region)) +
@@ -103,22 +114,25 @@ server <- function(input, output) {
   
   # Description of plot
   output$text <- renderText({
-    paste("The purpose of this chart is to determine the correlation between renewability of total energy
-           consumption over a large time span.")
+    paste("The purpose of this horizontal bar chart is to determine the correlation 
+           between renewability of total energy consumption over a large time span.The 
+          dropdown menu on the left allows the user to choose a country, and the graph 
+          displays the renewable energy share of total consumption from 2002 to 2021.")
   })
-    })
 
   
 # Page 4
   output$searchCountry <- renderUI({
     textInput("search", label = "Find a Country", value = "")
   })
-
+  
   output$scatter <- renderPlotly({
     return(build_scatter(top_emissions, input$search))
   })
-
+  
   output$text4 <- renderText({
-    paste("This plot shows how a country's total CO2 emissions (in the latest year recorded) compare to their CO2 emissions per capita (in latest year).")
-   })
+    paste("This scatter plot, as a aided by the searchbar menu on the left which allows users to search 
+           for a country, shows how a country's total CO2 emissions (in the latest year recorded) 
+           compare to their CO2 emissions per capita (in latest year).")
+  })
 }
