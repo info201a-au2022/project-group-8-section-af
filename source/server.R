@@ -104,7 +104,7 @@ server <- function(input, output) {
   # Description of plot
   output$text <- renderText({
     paste("The purpose of this chart is to determine the correlation between renewability of total energy
-           consumption over large time span.")
+           consumption over a large time span.")
   })
     })
 
